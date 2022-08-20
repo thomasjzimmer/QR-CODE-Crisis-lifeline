@@ -2,6 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 15.6//EN
 N:;;;;
+PHOTO;MEDIATYPE=image/jpeg:https://www.samhsa.gov/sites/default/files/988-square-navy.jpg
 FN:Crisis Lifelines
 ORG:Crisis Lifelines;
 item1.TEL;type=pref:(734) 936-5900
@@ -13,5 +14,8 @@ item3.X-ABLabel:Psychiatric Emergency Services
 item3.X-ABADR:us
 item4.URL;type=pref:988lifeline.org
 item4.X-ABLabel:988 Lifeline Homepage & Chat
+item5.URL;type=pref:https://www.depressioncenter.org/depression-toolkit
+item5.X-ABLabel: Depression Center Toolkit
+NOTE:Suicide and crisis support hotlines. PES = psychiatric emergency services. 
 X-ABShowAs:COMPANY
 END:VCARD
