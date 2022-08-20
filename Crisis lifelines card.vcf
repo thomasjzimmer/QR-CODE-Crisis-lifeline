@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.6//EN
+N:;;;;
+FN:Crisis Lifelines
+ORG:Crisis Lifelines;
+item1.TEL;type=pref:(734) 936-5900
+item1.X-ABLabel:Psychiatric Emergency Services at Michigan Medicine
+item2.TEL:988
+item2.X-ABLabel:National Suicide & Crisis Lifeline (call or text)
+item3.ADR;type=pref:;;1500 E. Medical Center Drive\nFloor B1\, Room A240;Ann Arbor;MI;48109;United States
+item3.X-ABLabel:Psychiatric Emergency Services
+item3.X-ABADR:us
+item4.URL;type=pref:988lifeline.org
+item4.X-ABLabel:988 Lifeline Homepage & Chat
+X-ABShowAs:COMPANY
+END:VCARD
