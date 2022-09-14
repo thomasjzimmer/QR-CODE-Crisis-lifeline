@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258 258">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00274c;
+      }
+
+      .cls-2 {
+        font-family: IBMPlexSansCond-Bold, 'IBM Plex Sans Condensed';
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #ffcb05;
+      }
+    </style>
+  </defs>
+  <g id="QR_Layer" data-name="QR Layer">
+    <g id="QR_v3_lineline" data-name="QR v3 lineline">
+      <g id="barcode">
+        <rect class="cls-3" width="258" height="258"/>
+        <path class="cls-1" d="M8.32,8.32v58.26h58.26V8.32H8.32ZM58.26,58.26H16.65V16.65H58.26V58.26Z"/>
+        <polygon class="cls-1" points="133.16 8.32 133.16 16.65 99.87 16.65 99.87 24.97 91.55 24.97 91.55 16.65 83.23 16.65 83.23 8.32 133.16 8.32"/>
+        <polygon class="cls-1" points="174.77 8.32 174.77 24.97 158.13 24.97 158.13 41.61 166.45 41.61 166.45 49.94 149.81 49.94 149.81 24.97 133.16 24.97 133.16 16.65 141.48 16.65 141.48 8.32 174.77 8.32"/>
+        <path class="cls-1" d="M191.42,8.32v58.26h58.26V8.32h-58.26Zm49.93,49.94h-41.61V16.65h41.61V58.26Z"/>
+        <polygon class="cls-1" points="91.55 41.61 91.55 49.94 83.23 49.94 83.23 66.58 74.9 66.58 74.9 16.65 83.23 16.65 83.23 41.61 91.55 41.61"/>
+        <rect class="cls-1" x="24.97" y="24.97" width="24.97" height="24.97"/>
+        <rect class="cls-1" x="208.06" y="24.97" width="24.97" height="24.97"/>
+        <rect class="cls-1" x="91.55" y="33.29" width="8.32" height="8.32"/>
+        <polygon class="cls-1" points="133.16 24.97 133.16 33.29 116.52 33.29 116.52 41.61 108.19 41.61 108.19 24.97 133.16 24.97"/>
+        <rect class="cls-1" x="133.16" y="33.29" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="166.45" y="33.29" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="99.87" y="41.61" width="8.32" height="8.32"/>
+        <path class="cls-1" d="M224.71,183.1v-49.94h-8.32v-8.32h-8.33v8.32h-16.64v33.29h8.32v8.32h-16.64v-41.61h-8.33v-8.32h8.33v-8.32h-8.33v-49.94h-8.32v-8.32h-8.32v16.64h-16.65v8.33h-8.32V49.94h-16.64v8.32h8.32v16.64h-8.32v8.33h-33.29v8.32h-8.33v8.32h8.33v8.32h-8.33v8.33h8.33v8.32h-24.97v8.32h8.32v8.32h-16.64v-8.32h-8.33v-8.32H24.97v-8.32h-8.32v8.32H8.32v24.97H24.97v-8.33h-8.32v-8.32h16.64v16.65h41.61v-8.33h8.33v8.33h-8.33v8.32h-16.64v8.32h8.32v8.32h16.65v8.33h-8.33v24.96h16.65v-16.64h8.32v-16.65h33.29v8.33h-24.97v16.64h8.33v8.32h8.32v-16.64h16.64v-8.32h8.33v8.32h8.32v-16.65h16.64v24.97h-8.32v-8.32h-8.32v8.32h-8.32v8.32h16.64v8.33h8.32v8.32h8.33v-8.32h24.96v16.64h8.33v-8.32h8.32v-24.97h-8.32v-16.64h8.32Zm-16.65,24.96h-24.96v-24.96h24.96v24.96Zm0-49.93v-16.65h8.33v16.65h-8.33Z"/>
+        <rect class="cls-1" x="141.48" y="49.94" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="108.19" y="58.26" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="174.77" y="58.26" width="8.32" height="8.32"/>
+        <polygon class="cls-1" points="99.87 58.26 99.87 74.9 83.23 74.9 83.23 66.58 91.55 66.58 91.55 58.26 99.87 58.26"/>
+        <rect class="cls-1" x="24.97" y="74.9" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="183.1" y="74.9" width="8.32" height="8.32"/>
+        <polygon class="cls-1" points="241.35 74.9 241.35 83.23 233.03 83.23 233.03 99.87 224.71 99.87 224.71 83.23 208.06 83.23 208.06 91.55 199.74 91.55 199.74 99.87 191.42 99.87 191.42 83.23 199.74 83.23 199.74 74.9 241.35 74.9"/>
+        <rect class="cls-1" x="41.61" y="83.23" width="8.32" height="8.32"/>
+        <polygon class="cls-1" points="83.23 74.9 83.23 83.23 74.9 83.23 74.9 91.55 66.58 91.55 66.58 83.23 49.94 83.23 49.94 74.9 83.23 74.9"/>
+        <rect class="cls-1" x="241.35" y="83.23" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="33.29" y="91.55" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="49.94" y="91.55" width="16.65" height="8.32"/>
+        <polygon class="cls-1" points="224.71 99.87 224.71 116.52 216.39 116.52 216.39 108.19 208.06 108.19 208.06 91.55 216.39 91.55 216.39 99.87 224.71 99.87"/>
+        <polygon class="cls-1" points="33.29 99.87 33.29 108.19 16.65 108.19 16.65 83.23 24.97 83.23 24.97 99.87 33.29 99.87"/>
+        <rect class="cls-1" x="183.1" y="99.87" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="233.03" y="99.87" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="58.26" y="108.19" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="191.42" y="108.19" width="16.65" height="16.65"/>
+        <rect class="cls-1" x="41.61" y="116.52" width="16.65" height="8.32"/>
+        <rect class="cls-1" x="224.71" y="116.52" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="241.35" y="116.52" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="241.35" y="149.81" width="8.32" height="16.65"/>
+        <polygon class="cls-1" points="49.94 174.77 49.94 183.1 8.32 183.1 8.32 174.77 24.97 174.77 24.97 166.45 8.32 166.45 8.32 158.13 41.61 158.13 41.61 166.45 33.29 166.45 33.29 174.77 49.94 174.77"/>
+        <rect class="cls-1" x="49.94" y="166.45" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="58.26" y="174.77" width="8.32" height="8.32"/>
+        <polygon class="cls-1" points="249.68 174.77 249.68 208.06 233.03 208.06 233.03 199.74 241.35 199.74 241.35 174.77 249.68 174.77"/>
+        <path class="cls-1" d="M8.32,191.42v58.26h58.26v-58.26H8.32Zm49.94,49.93H16.65v-41.61H58.26v41.61Z"/>
+        <rect class="cls-1" x="141.48" y="191.42" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="191.42" y="191.42" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="99.87" y="199.74" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="24.97" y="208.06" width="24.97" height="24.97"/>
+        <rect class="cls-1" x="91.55" y="208.06" width="8.32" height="8.32"/>
+        <polygon class="cls-1" points="149.81 208.06 149.81 216.39 141.48 216.39 141.48 224.71 124.84 224.71 124.84 216.39 133.16 216.39 133.16 208.06 149.81 208.06"/>
+        <polygon class="cls-1" points="158.13 216.39 158.13 233.03 149.81 233.03 149.81 249.68 141.48 249.68 141.48 224.71 149.81 224.71 149.81 216.39 158.13 216.39"/>
+        <polygon class="cls-1" points="249.68 224.71 249.68 233.03 224.71 233.03 224.71 224.71 233.03 224.71 233.03 216.39 241.35 216.39 241.35 224.71 249.68 224.71"/>
+        <rect class="cls-1" x="74.9" y="224.71" width="16.65" height="8.32"/>
+        <rect class="cls-1" x="108.19" y="224.71" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="183.1" y="224.71" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="91.55" y="233.03" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="158.13" y="233.03" width="8.32" height="8.32"/>
+        <rect class="cls-1" x="216.39" y="233.03" width="8.32" height="16.65"/>
+        <rect class="cls-1" x="116.52" y="241.35" width="16.65" height="8.32"/>
+        <rect class="cls-1" x="166.45" y="241.35" width="16.65" height="8.32"/>
+        <rect class="cls-1" x="191.42" y="241.35" width="16.65" height="8.32"/>
+        <rect class="cls-1" x="241.35" y="241.35" width="8.32" height="8.32"/>
+      </g>
+    </g>
+  </g>
+  <g id="Github_release_link" data-name="Github release link">
+    <text class="cls-2" transform="translate(104.4 108.59)"><tspan x="0" y="0">Save</tspan><tspan x="-4.08" y="28.8">Crisis</tspan><tspan x="-13.49" y="57.6">Lifeline</tspan></text>
+  </g>
+</svg>
